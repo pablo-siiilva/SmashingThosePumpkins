@@ -27,9 +27,9 @@
 
 - :baby: Living in Brazil, born in 2004;
 
-- :computer: Working at as a back-end developer;
+- :computer: Working as a back-end developer;
 
-- :seedling: Attending college of systems development;
+- :book: Attending college, studying systems development;
 
 - :brain: Studying web developement at home;
 
