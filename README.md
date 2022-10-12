@@ -25,6 +25,8 @@
   About me:
 </h2>
 
+- :baby: Living in Brazil, born in 2004;
+
 - :computer: Working at as a back-end developer;
 
 - :seedling: Attending college of systems development;
